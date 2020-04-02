@@ -1,6 +1,8 @@
-﻿using SOLID.O;
+﻿using SOLID.L;
+using SOLID.O;
 using SOLID.S;
 using System;
+using System.Collections.Generic;
 
 namespace SOLID
 {
@@ -28,7 +30,15 @@ namespace SOLID
             corporateAccount.Balance = 100000;
             Console.WriteLine($"The interest on the Corporate Account with a balance of ${corporateAccount.Balance} is ${corporateAccount.CalcInterest()}.");
 
+            Console.WriteLine("############################## The L of SOLID ######################################################################");
+            Apple apple = new Apple();
+            Console.WriteLine(apple.GetColor());
+
+            Orange orange = new Orange();
+            Console.WriteLine(orange.GetColor());
+
 
         }
     }
 }
+   
