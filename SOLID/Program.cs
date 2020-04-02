@@ -1,4 +1,5 @@
-﻿using SOLID.I;
+﻿using SOLID.D;
+using SOLID.I;
 using SOLID.L;
 using SOLID.O;
 using SOLID.S;
@@ -51,6 +52,14 @@ namespace SOLID
             liquidInkPrinter.Print("1234");
             liquidInkPrinter.Scan("1234");
 
+            Console.WriteLine("############################## The D of SOLID ######################################################################");
+            IAutomobile automobile = new Jeep();
+            //IAutomobile automobile = new Dodge();
+            AutomobileController automobileController = new AutomobileController(automobile);
+            //automobile.Ignition();
+            //automobile.Stop();
+            automobileController.Ignition();
+            automobileController.Stop();
         }
     }
 }
