@@ -1,4 +1,5 @@
-﻿using SOLID.L;
+﻿using SOLID.I;
+using SOLID.L;
 using SOLID.O;
 using SOLID.S;
 using System;
@@ -37,6 +38,18 @@ namespace SOLID
             Orange orange = new Orange();
             Console.WriteLine(orange.GetColor());
 
+            Console.WriteLine("############################## The I of SOLID ######################################################################");
+            HPLaserJetPrinter HPPrinter = new HPLaserJetPrinter();
+            Console.WriteLine("~~~~ HP Printer ~~~~");
+            HPPrinter.Print("1234");
+            HPPrinter.Fax("1234");
+            HPPrinter.Scan("1234");
+            HPPrinter.PrintDuplex("1234");
+
+            Console.WriteLine("~~~~ Liquid Ink Printer ~~~~");
+            LiquidInkPrinter liquidInkPrinter = new LiquidInkPrinter();
+            liquidInkPrinter.Print("1234");
+            liquidInkPrinter.Scan("1234");
 
         }
     }
