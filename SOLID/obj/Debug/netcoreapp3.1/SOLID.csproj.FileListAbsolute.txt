@@ -1,0 +1,13 @@
+C:\Users\ZachCervi\Documents\Development\SOLID\SOLID\bin\Debug\netcoreapp3.1\SOLID.exe
+C:\Users\ZachCervi\Documents\Development\SOLID\SOLID\bin\Debug\netcoreapp3.1\SOLID.deps.json
+C:\Users\ZachCervi\Documents\Development\SOLID\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.json
+C:\Users\ZachCervi\Documents\Development\SOLID\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.dev.json
+C:\Users\ZachCervi\Documents\Development\SOLID\SOLID\bin\Debug\netcoreapp3.1\SOLID.dll
+C:\Users\ZachCervi\Documents\Development\SOLID\SOLID\bin\Debug\netcoreapp3.1\SOLID.pdb
+C:\Users\ZachCervi\Documents\Development\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.csprojAssemblyReference.cache
+C:\Users\ZachCervi\Documents\Development\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\ZachCervi\Documents\Development\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfoInputs.cache
+C:\Users\ZachCervi\Documents\Development\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfo.cs
+C:\Users\ZachCervi\Documents\Development\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.dll
+C:\Users\ZachCervi\Documents\Development\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.pdb
+C:\Users\ZachCervi\Documents\Development\SOLID\SOLID\obj\Debug\netcoreapp3.1\SOLID.genruntimeconfig.cache
